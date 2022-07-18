@@ -56,3 +56,5 @@ Any reference to an investment's past or potential performance is not,
 and should not be construed as, a recommendation or as a guarantee of
 any specific outcome or profit.
 By using this program you accept all liabilities, and that no claims can be made against the developers or others connected with the program.
+
+Moneywithbots does charge a fee with every win if your not okay with that do not use this
