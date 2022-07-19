@@ -4,6 +4,8 @@
 This bot wins the majority of Epochs on PancakeSwap & CandleGenie Prediction based on market conditions & the strategy chosen.
 
 !!!!!!!!!!!!!!! 
+youtube tutorial  
+
 https://youtu.be/ECkwTRLkh1A
 
 !!!!!!!!!!!!!!
